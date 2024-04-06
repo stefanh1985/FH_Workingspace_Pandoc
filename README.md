@@ -53,7 +53,7 @@ details[open] > *:not(summary) {
 
 -->
 
-# FH-Workingspace 🧑‍💼 -Pandocha
+# FH-Workingspace 🧑‍💼 -Pandoc
 <div style="width:100%;height:0;padding-bottom:86%;position:relative;"><iframe src="https://giphy.com/embed/payr6u9f4Pa5zYGDid" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jojo-joseph-raja-payr6u9f4Pa5zYGDid">via GIPHY</a></p>
 
 
