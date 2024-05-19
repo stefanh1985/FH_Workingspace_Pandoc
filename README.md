@@ -106,6 +106,76 @@ https://www.datacodedesign.de dokumentationen-und-anleitungen-mit-markdown-pando
 https://www.schiedt.org/images/Dokumente/Anleitungen/pandoc/anleitung_pandoc_markdown.pdf
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+<details>
+<summary>Was ist Pandoc?</summary>
+Pandoc ist ein Konvertierungsprogramm, das Textdateien von einem Format in ein anderes umwandeln kann. Du kannst damit zum Beispiel ein Word-Dokument in ein PDF umwandeln.
+</details>
+
+<details>
+<summary>Wie installiere ich Pandoc?</summary>
+Du kannst Pandoc auf der offiziellen Website herunterladen und installieren. Besuche dazu [pandoc.org](https://pandoc.org/installing.html) und folge den Anweisungen für dein Betriebssystem.
+</details>
+
+<details>
+<summary>Wie benutze ich Pandoc?</summary>
+Pandoc wird über die Kommandozeile (Terminal) benutzt. Nach der Installation öffnest du die Kommandozeile und gibst Befehle ein, um Dateien zu konvertieren. Ein Beispielbefehl ist `pandoc input.docx -o output.pdf`, der eine Word-Datei in eine PDF-Datei umwandelt.
+</details>
+
+<details>
+<summary>Welche Dateiformate unterstützt Pandoc?</summary>
+Pandoc unterstützt viele verschiedene Dateiformate, darunter Markdown, HTML, Word, PDF, EPUB, LaTeX und viele mehr. Eine vollständige Liste findest du auf der [Pandoc Website](https://pandoc.org).
+</details>
+
+<details>
+<summary>Wie konvertiere ich ein Word-Dokument in ein PDF?</summary>
+Nachdem du Pandoc installiert hast, öffnest du die Kommandozeile und gibst folgenden Befehl ein: `pandoc dein_dokument.docx -o dein_dokument.pdf`. Ersetze "dein_dokument.docx" mit dem Namen deiner Word-Datei.
+</details>
+
+<details>
+<summary>Wie kann ich mehrere Dateien gleichzeitig konvertieren?</summary>
+Du kannst ein Skript erstellen, das mehrere Pandoc-Befehle nacheinander ausführt. Alternativ kannst du eine Batch-Datei (Windows) oder ein Shell-Skript (Mac/Linux) erstellen, um mehrere Dateien gleichzeitig zu konvertieren.
+</details>
+
+<details>
+<summary>Was mache ich, wenn ich eine Fehlermeldung erhalte?</summary>
+Prüfe zuerst, ob du den Befehl korrekt eingegeben hast und ob die Dateien an den angegebenen Orten existieren. Falls du weiterhin Probleme hast, kannst du im Internet nach der spezifischen Fehlermeldung suchen oder auf der [Pandoc Website](https://pandoc.org) nach Hilfe suchen.
+</details>
+
+<details>
+<summary>Gibt es eine grafische Benutzeroberfläche für Pandoc?</summary>
+Ja, es gibt mehrere grafische Benutzeroberflächen (GUIs) für Pandoc, die die Nutzung erleichtern. Eine davon ist PanWriter, die du ausprobieren kannst, wenn du keine Befehle in der Kommandozeile eingeben möchtest.
+</details>
+
+<details>
+<summary>Kann ich Pandoc mit anderen Programmen integrieren?</summary>
+Ja, Pandoc kann mit vielen anderen Programmen und Texteditoren integriert werden, wie z.B. Microsoft Word, Markdown-Editoren und LaTeX-Editoren. Viele dieser Programme bieten Plugins oder Erweiterungen für Pandoc.
+</details>
+
+<details>
+<summary>Wo finde ich weitere Informationen und Hilfe zu Pandoc?</summary>
+Weitere Informationen und Hilfe findest du auf der [offiziellen Pandoc Website](https://pandoc.org), in der Dokumentation und in Online-Foren. Es gibt auch viele Tutorials und Videos, die dir den Einstieg erleichtern.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
